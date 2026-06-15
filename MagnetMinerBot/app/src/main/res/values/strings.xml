@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Magnet Miner Bot</string>
+    <string name="accessibility_service_label">Magnet Miner Auto-Click</string>
+    <string name="accessibility_service_description">Automates button taps in Magnet Miner Winter Edition.</string>
+    <string name="channel_id">magnet_miner_bot_channel</string>
+    <string name="channel_name">Magnet Miner Bot</string>
+    <string name="notification_title">Magnet Miner Bot Running</string>
+    <string name="notification_text">Auto-clicking is active</string>
+</resources>
